@@ -1,4 +1,4 @@
-# A simple cli tool written in go to show calendar
+# A simple calendar cli tool written in golang
 Written this cli tool using golang. Used some basic features of golang.
 
 
