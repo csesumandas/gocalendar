@@ -1,7 +1,9 @@
 # A simple cli tool written in go to show calendar
+Written this cli tool using golang. Used some basic features of golang.
 
-# Example
-## To see help use the below command
+
+#### Examples
+##### To see help use the below command
 ```
 $ gocalendar -h
 Simple Command Line Calendar Tool Utility. Inspired by cal tool in Linux.
@@ -16,7 +18,7 @@ Usage; gocalendar
 
 ```
 
-## To see current month use the below command
+##### To see current month use the below command
 ```
 $ gocalendar
     January 2020
@@ -29,7 +31,7 @@ Su Mo Tu We Th Fr Sa
 
 ```
 
-## To see a particular year use the below command
+##### To see a particular year use the below command
 ```
 $ gocalendar -y 2020
                                2020
@@ -70,7 +72,7 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 
 ```
 
-## To see a particular month for a year use the below command
+##### To see a particular month for a year use the below command
 ```
 $ gocalendar -y 2021 -m 12
    December 2020
